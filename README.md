@@ -5,8 +5,8 @@ I'm also interested in exchanging languages, currently learning french and perfe
 
 
 👀 I'm interested in web design,algorithms, logic programming, data bases. Exchanging languages (french, english).<br>
-🌱 I'm currently learning JavaScript, React, GIT, HTML5 y CSS.<br>
-💞️ I'm looking to collaborate in projects that help me to learning.<br>
+🌱 currently learning JavaScript, React, GIT, HTML5 y CSS.<br>
+💞️ looking to collaborate in projects that help me to learning.<br>
 📫 Contact me: pabloariel@hotmail.com<br>
 
 <p align="right">
